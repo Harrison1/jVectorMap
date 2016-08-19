@@ -1,2 +1,2 @@
 # jVectorMap
-jVector Map
+jVector Map for country suicidal rates
