@@ -1,0 +1,44 @@
+#legend {
+    margin-right: 45px;
+    top: 403px;
+    float: right;
+    margin-top: -30px;
+    font-family: Arial, sans-serif;
+}
+
+.legend strong {
+    text-align: center;
+}
+
+.legend label, .legend span {
+    display: block;
+    float: left;
+    height: 17px;
+    width: 34px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    color: #181515;
+}
+
+#container {
+    width: 700px;
+    position: relative;
+}
+
+#maptitle {
+    font-size: 26px;
+    margin-bottom: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.legend-class {
+    background-color: rgba(0,0,0,0);
+}
+
+#vmap {
+    width: 700px; 
+    height: 400px; 
+    position: relative; 
+    overflow: hidden; 
+}
