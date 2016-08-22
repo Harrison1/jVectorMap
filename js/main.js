@@ -279,7 +279,7 @@ var psychiatrists = {
     series: {
       regions: [{
         values: suicides,
-        scale: ['#eff3ff', '#08519c'],
+        scale: ['#456e80', '#6c8578', '#939c71', '#e0c961', '#d5a15e', '#c56559'],
         normalizeFunction: 'polynomial'
       }]
     },
