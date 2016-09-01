@@ -2,7 +2,6 @@
     margin-right: 45px;
     top: 403px;
     float: right;
-    margin-top: -30px;
     font-family: Arial, sans-serif;
     text-align: center;
 }
@@ -20,6 +19,34 @@
     font-size: 13px;
     font-weight: 600;
     color: #181515;
+}
+
+.table-title {
+    clear: both;
+    font-family: Arial, sans-serif;
+    margin-top:40px;
+}
+
+.extra-data {
+    clear: both;
+    margin-top: 90px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
 }
 
 #container {
